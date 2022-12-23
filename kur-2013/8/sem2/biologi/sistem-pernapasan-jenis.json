@@ -1,0 +1,10 @@
+{
+	"title": "Jenis Sistem Pernapasan",
+	"description": "Sebutkan 3 jenis sistem pernapasan manusia!",
+	"list":
+	[
+		["Pertukaran oksigen dan karbon dioksida yang terjadi antara udara luar yang terdapat dalam paru-paru dan darah yang berasal dari kapiler darah.", "Pernapasan eksternal"],
+		["Pertukaran oksigen yang dibawa oleh darah dalam kapiler dengan karbon dioksida yang berasal dari sel-sel tubuh.", "Pernapasan internal"],
+		["Proses masuknya oksigen dari sel-sel tubuh ke dalam mitokondria untuk menghasilkan energi.", "Pernapasan selular"]
+	]
+}
