@@ -1,0 +1,51 @@
+{
+	"title": "Reaksi Respirasi",
+	"description": "Kuiz reaksi respirasi.",
+	"list":
+	[
+		{
+			"label": "Glukosa adalah:",
+			"choice":
+			[
+				"Enzim yang membantu proses metabolisme",
+				"Bentuk gula sederhana",
+				"Senyawa kimia penghasil panas",
+				"Zat pembangun sel dalam tubuh"
+			],
+			"correct": 2
+		},
+		{
+			"label": "Apa itu metabolisme?",
+			"choice":
+			[
+				"Proses pertukaran oksigen dan karbon dioksida dalam tubuh",
+				"Kestabilan suhu tubuh pada manusia",
+				"Reaksi kimiawi yang terjadi dalam tubuh yang melibatkan enzim",
+				"Sumber energi pada makhluk hidup"
+
+			],
+			"correct": 3
+		},
+		{
+			"label": "Apa itu katabolisme?",
+			"choice":
+			[
+				"Reaksi kimiawi yang terjadi dalam tubuh yang melibatkan enzim",
+				"Proses penguraian molekul kompleks menjadi molekul yang lebih sederhana pada makhluk hidup",
+				"Sumber energi pada makhluk hidup",
+				"Proses pencernaan pada manusia"
+			]
+		},
+		{
+			"label": "Manakah yang merupakan reaksi kimia respirasi pada manusia?",
+			"choice":
+			[
+				"C₆H₁₂O + 6 O₂ → 6 CO₂ + 6 H₂O",
+				"6 CO₂ + 6 H₂O → C₆H₁₂O + 6 O₂",
+				"6 CO₂ + 6 O₂ → C₆H₁₂O + 6 H₂O"
+			]
+		}
+
+	]
+
+}
