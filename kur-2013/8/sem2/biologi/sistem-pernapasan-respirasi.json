@@ -43,7 +43,8 @@
 				"C₆H₁₂O + 6 O₂ → 6 CO₂ + 6 H₂O",
 				"6 CO₂ + 6 H₂O → C₆H₁₂O + 6 O₂",
 				"6 CO₂ + 6 O₂ → C₆H₁₂O + 6 H₂O"
-			]
+			],
+			"correct": 1
 		}
 
 	]
