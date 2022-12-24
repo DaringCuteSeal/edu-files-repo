@@ -34,7 +34,8 @@
 				"Proses penguraian molekul kompleks menjadi molekul yang lebih sederhana pada makhluk hidup",
 				"Sumber energi pada makhluk hidup",
 				"Proses pencernaan pada manusia"
-			]
+			],
+			"correct": 2
 		},
 		{
 			"label": "Manakah yang merupakan reaksi kimia respirasi pada manusia?",
