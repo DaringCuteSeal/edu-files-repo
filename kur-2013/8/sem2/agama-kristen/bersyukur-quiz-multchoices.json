@@ -1,0 +1,51 @@
+{
+	"title": "Review Bab Hidup Bersyukur",
+	"description": "Jawablah quiz berikut ini berdasarkan materi yang telah kamu pelajari!",
+
+	"list":
+	[
+		{
+			"label": "Apa asal kata bersyukur dari bahasa Ibrani?",
+			"choice":
+			[
+				"Philia",
+				"Yashar",
+				"Yadah"
+			],
+			"correct": 3
+		},
+
+		{
+			"label": "Apa salah satu penyebab kita sulit untuk bersyukur?",
+			"choice":
+			[
+				"Sukacita kita atas hal-hal yang telah menolong kita",
+				"Kebiasaan kita untuk mengeluh dan merasa tidak puas.",
+				"Merasa diri dapat hidup tanpa anugerah Allah."
+			],
+			"correct": 2
+		},
+
+		{
+			"label": "Mengapa Tuhan menghendaki kita untuk mengalami hal-hal yang tidak menyenangkan dalam hidup?",
+			"choice":
+			[
+				"Agar kita dapat belajar tentang hidup beriman dan berpengharapan.",
+				"Agar kita dapat merasakan penderitaan yang dapat membangun kita.",
+				"Agar kita dapat merasakan berkat Tuhan pada saat kita merasakan hal yang menyenangkan."
+			],
+			"correct": 1
+		},
+
+		{
+			"label": "Dari manakah asal orang yang berterima kasih kepada Yesus atas penyembuhannya dari sakit kusta?",
+			"choice":
+			[
+				"Mesir",
+				"Samaria",
+				"Yahudi"
+			],
+			"correct": 2
+		}
+	]
+}
