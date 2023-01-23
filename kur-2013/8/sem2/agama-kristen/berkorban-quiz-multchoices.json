@@ -1,0 +1,42 @@
+{
+	"title": "Review Bab Berkorban",
+	"description": "Jawablah quiz berikut ini berdasarkan materi yang telah kamu pelajari!",
+
+	"list":
+	[
+		{
+			"label": "Apa makna berkorban?",
+			"choice":
+			[
+				"Memberi diri bagi yang lain",
+				"Mengasihani orang lain yang kesusahan",
+				"Mencintai seseorang dengan sepenuh hati"
+			],
+			"correct": 1
+
+		},
+
+		{
+			"label": "Manakah yang merupakan alasan sulitnya berkorban?",
+			"choice":
+			[
+				"Kasihan",
+				"Empati",
+				"Ketidakpedulian"
+			],
+			"correct": 3
+		},
+		{
+			"label": "Apa alasan kita dipanggil untuk berkorban?",
+			"choices":
+			[
+				"Karena orang lain kesulitan.",
+				"Karena kita tidak berarti dibandingkan orang lain yang banyak",
+				"Karena Yesus sendiri telah melakukannya bagi kita."
+			],
+			"correct": 3
+
+		}
+
+	]
+}
